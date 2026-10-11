@@ -134,4 +134,13 @@ GitHub: [VC-17](https://github.com/VC-17)
 
 ---
 
+
+## 🌐 Live Deployment
+
+**Backend API:** [https://backend-ledger-ih0v.onrender.com](https://backend-ledger-ih0v.onrender.com/)
+
+The backend is deployed on Render. You can test the API using the appropriate endpoints with Postman or another API client.
+
+
+
 ⭐ If you find this project interesting, consider giving the repository a star!
